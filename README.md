@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicoladan
+- 👋 Hi, I’m Nicola
 - 👀 I’m interested in Computer Science, Game & App Development
 - 🌱 I’m currently studying Computer Science at Federico II University
 - 💞️ I’m looking to collaborate on many projects but i also love the idea of finding inspiration in the github's community
